@@ -3,158 +3,158 @@
     xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw"
     version="1.1" baseProfile="full">
     <g>
-        <g latexdraw:type="rectangle" id="id1265106263">
+        <g latexdraw:type="rectangle" id="id1878110827">
             <rect x="401.0000000000009" y="21.0"
                 width="297.9999999999992" height="38.0"
                 latexdraw:borderPos="outer" stroke-width="2.0"
                 stroke="black" fill="none"/>
         </g>
-        <g latexdraw:type="text" id="id1834921028" fill="black" latexdraw:position="bl">
-            <text x="420.25" y="46.66666666666666"><![CDATA[Entrer un naturel $n$ entre $0$ et $20$.]]></text>
+        <g latexdraw:type="text" id="id434375462" fill="black" latexdraw:position="bl">
+            <text x="420.25" y="46.66666666666666">Entrer un naturel $n$ entre $0$ et $20$.</text>
         </g>
-        <g latexdraw:type="rhombus" id="id1261918771" latexdraw:points="400.0000000000009 180.0 700.0000000000001 180.0 400.0000000000009 260.0 700.0000000000001 260.0">
+        <g latexdraw:type="rhombus" id="id830749903" latexdraw:points="400.0000000000009 180.0 700.0000000000001 180.0 400.0000000000009 260.0 700.0000000000001 260.0">
             <polygon
                 points="550.0000000000005,181.03494497975066 696.1189563259351,220.0 550.0000000000005,258.96505502024934 403.8810436740659,220.0"
                 latexdraw:borderPos="outer" stroke-width="2.0"
                 stroke="black" fill="none"/>
         </g>
-        <g latexdraw:type="text" id="id80202946" fill="black" latexdraw:position="bl">
-            <text x="489.2499847412115" y="226.25"><![CDATA[A-t-on $n > 12$ ?]]></text>
+        <g latexdraw:type="text" id="id1852905860" fill="black" latexdraw:position="bl">
+            <text x="489.2499847412115" y="226.25">A-t-on $n &gt; 12$ ?</text>
         </g>
-        <g latexdraw:type="text" id="id57703214" fill="black" latexdraw:position="bl">
-            <text x="720.0000000000002" y="210.0"><![CDATA[Oui]]></text>
+        <g latexdraw:type="text" id="id882953692" fill="black" latexdraw:position="bl">
+            <text x="720.0000000000002" y="210.0">Oui</text>
         </g>
-        <g latexdraw:type="text" id="id681145098" fill="black" latexdraw:position="bl">
-            <text x="510.0000000000002" y="290.0"><![CDATA[Non]]></text>
+        <g latexdraw:type="text" id="id1910980269" fill="black" latexdraw:position="bl">
+            <text x="510.0000000000002" y="290.0">Non</text>
         </g>
-        <g latexdraw:type="text" id="id1515678312" fill="black" latexdraw:position="bl">
-            <text x="801.0" y="357.75"><![CDATA[$R$ prend la valeur "Bien".]]></text>
+        <g latexdraw:type="text" id="id610926153" fill="black" latexdraw:position="bl">
+            <text x="801.0" y="357.75">$R$ prend la valeur "Bien".</text>
         </g>
-        <g latexdraw:type="text" id="id1003980021" fill="black" latexdraw:position="bl">
-            <text x="407.25" y="127.75"><![CDATA[$R$ prend la valeur textuelle "Moyen".]]></text>
+        <g latexdraw:type="text" id="id507141892" fill="black" latexdraw:position="bl">
+            <text x="407.25" y="127.75">$R$ prend la valeur textuelle "Moyen".</text>
         </g>
-        <g latexdraw:type="text" id="id1995999983" fill="black" latexdraw:position="bl">
-            <text x="493.4999847412106" y="356.25"><![CDATA[A-t-on $n < 8$ ?]]></text>
+        <g latexdraw:type="text" id="id1268434068" fill="black" latexdraw:position="bl">
+            <text x="493.4999847412106" y="356.25">A-t-on $n &lt; 8$ ?</text>
         </g>
-        <g latexdraw:type="rhombus" id="id56009367" latexdraw:points="400.0000000000009 310.0 700.0000000000001 310.0 400.0000000000009 390.0 700.0000000000001 390.0">
+        <g latexdraw:type="rhombus" id="id488975693" latexdraw:points="400.0000000000009 310.0 700.0000000000001 310.0 400.0000000000009 390.0 700.0000000000001 390.0">
             <polygon
                 points="550.0000000000005,311.03494497975066 696.1189563259351,350.0 550.0000000000005,388.96505502024934 403.8810436740659,350.0"
                 latexdraw:borderPos="outer" stroke-width="2.0"
                 stroke="black" fill="none"/>
         </g>
-        <g latexdraw:type="text" id="id1281971691" fill="black" latexdraw:position="bl">
-            <text x="350.00000000000034" y="340.0"><![CDATA[Oui]]></text>
+        <g latexdraw:type="text" id="id998120231" fill="black" latexdraw:position="bl">
+            <text x="350.00000000000034" y="340.0">Oui</text>
         </g>
-        <g latexdraw:type="text" id="id1967297986" fill="black" latexdraw:position="bl">
-            <text x="560.0" y="420.0"><![CDATA[Non]]></text>
+        <g latexdraw:type="text" id="id37692209" fill="black" latexdraw:position="bl">
+            <text x="560.0" y="420.0">Non</text>
         </g>
-        <g latexdraw:type="text" id="id756109081" fill="black" latexdraw:position="bl">
-            <text x="78.74999999999943" y="407.75"><![CDATA[$R$ prend la valeur "Insuffisant".]]></text>
+        <g latexdraw:type="text" id="id32403083" fill="black" latexdraw:position="bl">
+            <text x="78.74999999999943" y="407.75">$R$ prend la valeur "Insuffisant".</text>
         </g>
-        <g latexdraw:type="text" id="id1588875964" fill="black" latexdraw:position="bl">
-            <text x="476.7500000000007" y="466.0"><![CDATA[Afficher le texte $R$.]]></text>
+        <g latexdraw:type="text" id="id1562625701" fill="black" latexdraw:position="bl">
+            <text x="476.7500000000007" y="466.0">Afficher le texte $R$.</text>
         </g>
-        <g latexdraw:type="rectangle" id="id2043587926">
+        <g latexdraw:type="rectangle" id="id6478405">
             <rect x="401.0000000000009" y="101.0"
                 width="297.9999999999992" height="38.0"
                 latexdraw:borderPos="outer" stroke-width="2.0"
                 stroke="black" fill="none"/>
         </g>
-        <g latexdraw:type="rectangle" id="id674185841">
+        <g latexdraw:type="rectangle" id="id652191370">
             <rect x="51.0" y="381.0" width="298.0" height="38.0"
                 latexdraw:borderPos="outer" stroke-width="2.0"
                 stroke="black" fill="none"/>
         </g>
-        <g latexdraw:type="rectangle" id="id1482319807">
+        <g latexdraw:type="rectangle" id="id1940657180">
             <rect x="751.0000000000002" y="331.0"
                 width="297.9999999999998" height="38.0"
                 latexdraw:borderPos="outer" stroke-width="2.0"
                 stroke="black" fill="none"/>
         </g>
-        <g latexdraw:type="rectangle" id="id1452226998">
+        <g latexdraw:type="rectangle" id="id151058033">
             <rect x="401.0000000000009" y="441.0"
                 width="297.9999999999992" height="38.0"
                 latexdraw:borderPos="outer" stroke-width="2.0"
                 stroke="black" fill="none"/>
         </g>
-        <g latexdraw:type="joinedLines" id="id436337212">
+        <g latexdraw:type="joinedLines" id="id1130988396">
             <polyline points="550.0,60.0 550.0,100.0 "
                 stroke-width="2.0" stroke="black"
-                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-436337212)"/>
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1130988396)"/>
         </g>
-        <g latexdraw:type="joinedLines" id="id1508256716">
+        <g latexdraw:type="joinedLines" id="id769227834">
             <polyline points="550.0,140.0 550.0,180.0 "
                 stroke-width="2.0" stroke="black"
-                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1508256716)"/>
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-769227834)"/>
         </g>
-        <g latexdraw:type="joinedLines" id="id1682928008">
+        <g latexdraw:type="joinedLines" id="id385378">
             <polyline points="550.0,260.0 550.0,310.0 "
                 stroke-width="2.0" stroke="black"
-                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1682928008)"/>
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-385378)"/>
         </g>
-        <g latexdraw:type="joinedLines" id="id847291303">
+        <g latexdraw:type="joinedLines" id="id915173701">
             <polyline points="550.0,390.0 550.0,440.0 "
                 stroke-width="2.0" stroke="black"
-                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-847291303)"/>
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-915173701)"/>
         </g>
-        <g latexdraw:type="joinedLines" id="id165592796">
+        <g latexdraw:type="joinedLines" id="id1435567666">
             <polyline points="700.0,220.0 900.0,220.0 900.0,330.0 "
                 stroke-width="2.0" stroke="black" fill="none"
-                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-165592796)"/>
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1435567666)"/>
         </g>
-        <g latexdraw:type="joinedLines" id="id1722262299">
+        <g latexdraw:type="joinedLines" id="id1202277037">
             <polyline points="400.0,350.0 210.0,350.0 210.0,380.0 "
                 stroke-width="2.0" stroke="black" fill="none"
-                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1722262299)"/>
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1202277037)"/>
         </g>
-        <g latexdraw:type="joinedLines" id="id511722692">
+        <g latexdraw:type="joinedLines" id="id1739500063">
             <polyline points="210.0,420.0 210.0,460.0 400.0,460.0 "
                 stroke-width="2.0" stroke="black" fill="none"
-                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-511722692)"/>
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1739500063)"/>
         </g>
-        <g latexdraw:type="joinedLines" id="id2041441700">
+        <g latexdraw:type="joinedLines" id="id685264457">
             <polyline points="900.0,370.0 900.0,460.0 700.0,460.0 "
                 stroke-width="2.0" stroke="black" fill="none"
-                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-2041441700)"/>
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-685264457)"/>
         </g>
     </g>
     <defs>
-        <marker overflow="visible" orient="auto" id="arrow1-436337212">
+        <marker overflow="visible" orient="auto" id="arrow1-1130988396">
             <path
                 d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
                 latexdraw:arrSizeNum="2.0" fill="black"/>
         </marker>
-        <marker overflow="visible" orient="auto" id="arrow1-1508256716">
+        <marker overflow="visible" orient="auto" id="arrow1-769227834">
             <path
                 d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
                 latexdraw:arrSizeNum="2.0" fill="black"/>
         </marker>
-        <marker overflow="visible" orient="auto" id="arrow1-1682928008">
+        <marker overflow="visible" orient="auto" id="arrow1-385378">
             <path
                 d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
                 latexdraw:arrSizeNum="2.0" fill="black"/>
         </marker>
-        <marker overflow="visible" orient="auto" id="arrow1-847291303">
+        <marker overflow="visible" orient="auto" id="arrow1-915173701">
             <path
                 d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
                 latexdraw:arrSizeNum="2.0" fill="black"/>
         </marker>
-        <marker overflow="visible" orient="auto" id="arrow1-165592796">
+        <marker overflow="visible" orient="auto" id="arrow1-1435567666">
             <path
                 d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
                 latexdraw:arrSizeNum="2.0" fill="black"/>
         </marker>
-        <marker overflow="visible" orient="auto" id="arrow1-1722262299">
+        <marker overflow="visible" orient="auto" id="arrow1-1202277037">
             <path
                 d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
                 latexdraw:arrSizeNum="2.0" fill="black"/>
         </marker>
-        <marker overflow="visible" orient="auto" id="arrow1-511722692">
+        <marker overflow="visible" orient="auto" id="arrow1-1739500063">
             <path
                 d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
                 latexdraw:arrSizeNum="2.0" fill="black"/>
         </marker>
-        <marker overflow="visible" orient="auto" id="arrow1-2041441700">
+        <marker overflow="visible" orient="auto" id="arrow1-685264457">
             <path
                 d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
                 latexdraw:arrSizeNum="2.0" fill="black"/>
@@ -162,7 +162,7 @@
     </defs>
     <metadata>
         <latexdraw:metadata>
-            <latexdraw:latexIncludes><![CDATA[]]></latexdraw:latexIncludes>
+            <latexdraw:latexIncludes/>
             <latexdraw:displayXScale>true</latexdraw:displayXScale>
             <latexdraw:displayYScale>true</latexdraw:displayYScale>
             <latexdraw:unit>CM</latexdraw:unit>
@@ -170,7 +170,7 @@
             <latexdraw:magneticGridStyle>CUSTOMISED</latexdraw:magneticGridStyle>
             <latexdraw:gridGap>20</latexdraw:gridGap>
             <latexdraw:magneticGrid>true</latexdraw:magneticGrid>
-            <latexdraw:version>3.3.1</latexdraw:version>
+            <latexdraw:version>3.3.2</latexdraw:version>
             <latexdraw:size>
                 <latexdraw:width>1440</latexdraw:width>
                 <latexdraw:height>835</latexdraw:height>
